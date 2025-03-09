@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = /mnt/c/Users/91733/Desktop/BITS/sem2/DMML/dvc-storage
